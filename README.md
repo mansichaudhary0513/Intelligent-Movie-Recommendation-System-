@@ -30,14 +30,17 @@ This project uses recommendation techniques such as **content-based filtering** 
 ---
 ## 📂 Project Structure
 
-├── data/ # Dataset files
-├── notebooks/ # Jupyter/Colab notebooks
-├── src/ # Source code
-├── model/ # Saved model files
-├── app.py # Streamlit/Flask app
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+## 📂 Project Structure
 
+```
+├── data/                # Dataset files
+├── notebooks/           # Jupyter/Colab notebooks
+├── src/                 # Source code
+├── model/               # Saved model files
+├── app.py               # Streamlit/Flask app
+├── requirements.txt     # Dependencies
+└── README.md            # Project documentation
+```
 
 ---
 
